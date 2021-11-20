@@ -71,7 +71,7 @@ Example scn file:
         0
       ],
       "physics": true,
-      "start_url": "./prototype",
+      "start_url": "https://webaverse.github.io/proto-sandbox/",
       "dynamic": false
     }
   ]
