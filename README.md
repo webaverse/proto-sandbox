@@ -1,5 +1,9 @@
-# prototype sandbox scene
+# Prototype Sandbox Scene
 ![sdasdas](https://user-images.githubusercontent.com/29487929/142738799-7daf9ea0-988d-41c2-9b88-242e3993eea5.png)
+
+Features:
+- Uneven/spiky terrain for movement testing
+- Underground and above ground tunnels (can be used for camera pressure tests)
 
 Example scn file: 
 
