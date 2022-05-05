@@ -1,3 +1,5 @@
 {
+  "name": "proto-sandbox",
+  "description": "proto-sandbox",
   "start_url": "prototype.glb"
 }
